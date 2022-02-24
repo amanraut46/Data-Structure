@@ -1,0 +1,14 @@
+D:\Data Structure\TreeDataStructure\TreeDataStructure\bin\Debug\netcoreapp3.1\TreeDataStructure.exe
+D:\Data Structure\TreeDataStructure\TreeDataStructure\bin\Debug\netcoreapp3.1\TreeDataStructure.deps.json
+D:\Data Structure\TreeDataStructure\TreeDataStructure\bin\Debug\netcoreapp3.1\TreeDataStructure.runtimeconfig.json
+D:\Data Structure\TreeDataStructure\TreeDataStructure\bin\Debug\netcoreapp3.1\TreeDataStructure.runtimeconfig.dev.json
+D:\Data Structure\TreeDataStructure\TreeDataStructure\bin\Debug\netcoreapp3.1\TreeDataStructure.dll
+D:\Data Structure\TreeDataStructure\TreeDataStructure\bin\Debug\netcoreapp3.1\TreeDataStructure.pdb
+D:\Data Structure\TreeDataStructure\TreeDataStructure\obj\Debug\netcoreapp3.1\TreeDataStructure.csproj.AssemblyReference.cache
+D:\Data Structure\TreeDataStructure\TreeDataStructure\obj\Debug\netcoreapp3.1\TreeDataStructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data Structure\TreeDataStructure\TreeDataStructure\obj\Debug\netcoreapp3.1\TreeDataStructure.AssemblyInfoInputs.cache
+D:\Data Structure\TreeDataStructure\TreeDataStructure\obj\Debug\netcoreapp3.1\TreeDataStructure.AssemblyInfo.cs
+D:\Data Structure\TreeDataStructure\TreeDataStructure\obj\Debug\netcoreapp3.1\TreeDataStructure.csproj.CoreCompileInputs.cache
+D:\Data Structure\TreeDataStructure\TreeDataStructure\obj\Debug\netcoreapp3.1\TreeDataStructure.dll
+D:\Data Structure\TreeDataStructure\TreeDataStructure\obj\Debug\netcoreapp3.1\TreeDataStructure.pdb
+D:\Data Structure\TreeDataStructure\TreeDataStructure\obj\Debug\netcoreapp3.1\TreeDataStructure.genruntimeconfig.cache
